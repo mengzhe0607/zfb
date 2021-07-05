@@ -1,0 +1,89 @@
+<!--index.wxml-->
+<view class="container">
+  <!-- blue -->
+  <view class="blue">
+    <view class="top">
+      <view class="search">
+        <input class="search-input" placeholder="花呗" placeholder-class="placeholder-input"/>
+        <view class="more">
+          <image src="images/01.png"></image>
+          <image src="images/02.png"></image>
+        </view>
+
+      </view>
+    </view>
+    <view class="main-menu-g">
+      <view class="main-menu">
+        <image src="images/1.png"></image>
+        <text>扫一扫</text>
+      </view>
+      <view class="main-menu">
+        <image src="images/2.png"></image>
+        <text>付钱</text>
+      </view>
+      <view class="main-menu">
+        <image src="images/3.png"></image>
+        <text>收钱</text>
+      </view>
+      <view class="main-menu">
+        <image src="images/4.png"></image>
+        <text>卡包</text>
+      </view>
+    </view>
+  </view>
+  <!-- white -->
+  <view class="white">
+    
+      <view class="white-menu">
+        <image src="images/5.png"></image>
+        <text>转账</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/6.png"></image>
+        <text>信用卡还款</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/7.png"></image>
+        <text>充值中心</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/8.png"></image>
+        <text>余额宝</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/9.png"></image>
+        <text>淘票票电影</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/10.png"></image>
+        <text>滴滴出行</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/11.png"></image>
+        <text>生活缴费</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/12.png"></image>
+        <text>芝麻信用</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/13.png"></image>
+        <text>芝麻信用</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/14.png"></image>
+        <text>芝麻信用</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/15.png"></image>
+        <text>芝麻信用</text>
+      </view>
+      <view class="white-menu">
+        <image src="images/16.png"></image>
+        <text>芝麻信用</text>
+      </view>
+      
+      
+    
+  </view>
+</view>

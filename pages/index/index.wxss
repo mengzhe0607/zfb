@@ -1,0 +1,77 @@
+.blue{
+  background-color: #1e82d2;
+  padding: 20rpx;
+}
+.blue .top{
+  height: 58rpx;
+  width: 100%;
+  display: flex;
+}
+.top .search{
+  display: flex;
+  flex: 1;
+
+}
+.top .search .search-input{
+  background: #1a71b7;
+  font-size: 24rpx;
+  padding: 0 10rpx;
+  border-radius: 4px;
+  flex: 1;
+  /* color: #ffffff; */
+}
+.placeholder-input{
+  color: #ffffff;
+}
+.top .more{
+  width: 180rpx;
+  display: flex;
+  justify-content: space-evenly;
+}
+.top .more image{
+  width: 50rpx;
+  height: 50rpx;
+}
+.main-menu-g{
+  display: flex;
+  margin-top: 40rpx;
+  justify-content: space-evenly;
+  margin-bottom: 20rpx;
+}
+.main-menu-g image{
+     width: 75rpx;
+     height: 75rpx;
+     
+}
+.main-menu-g .main-menu{
+  width: 100rpx;
+  height: 120rpx;
+  text-align: center;
+}
+.main-menu text{
+  font-size: 32rpx;
+  color: white;
+}
+/* white */
+.white-menu image{
+  width: 50rpx;
+  height: 50rpx;
+}
+.white{
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 20rpx;
+  justify-content: space-around;
+}
+.white-menu{
+  width: 180rpx;
+  height: 130rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40rpx;
+}
+.white-menu text{
+  font-size: 32rpx;
+  margin-top: 10rpx;
+}
